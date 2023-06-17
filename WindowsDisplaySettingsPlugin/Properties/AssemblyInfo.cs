@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("WindowsDisplaySettings plugin for Loupedeck")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("LoupeDeck Oy")]
+[assembly: AssemblyCompany("charuruflex")]
 [assembly: AssemblyProduct("Loupedeck2")]
-[assembly: AssemblyCopyright("Copyright ? 2018-YYYY LoupeDeck Oy. All rights reserved.")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
